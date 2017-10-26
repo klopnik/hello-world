@@ -1,2 +1,5 @@
 # hello-world
-My first repository for JS class
+
+This my first repository for JS class
+
+JS is fun! 
